@@ -6,6 +6,7 @@
 ## I'm a Student, Developer!!
 
 - I’m currently learning everything !
+- Aiming to master Full Stack development.
 
 ### Connect with me:
 
