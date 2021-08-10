@@ -1,7 +1,7 @@
 ### Hi there, I'm Mhand👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fprofile.mhand.live)](https://profile.mhand.live)
-[![Twitter Follow](https://img.shields.io/twitter/url?logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fmhandmaous)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmmaous&screen_name=mhandmaous)
+[![Twitter Follow](https://img.shields.io/twitter/url?logoColor=blue&style=social&?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fmhandmaous)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmmaous&screen_name=mhandmaous)
 
 ## I'm a Student, Developer!!
 
