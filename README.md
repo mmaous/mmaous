@@ -22,8 +22,8 @@
 
 <p align="center">
 <a href="https://github.com/mmaous">
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmaous&show_icons=true&theme=algolia"/>
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmaous&show_icons=true&theme=noctis-minimus"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=noctis-minimus"/>
 </a>
 </p>
 
