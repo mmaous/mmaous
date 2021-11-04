@@ -22,11 +22,11 @@
 <p align="center">
 <a href="https://github.com/mmaous">
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmaous&show_icons=true&theme=noctis_minimus"/>
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=noctis_minimus"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mmaous&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mmaous&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [website]: https://profile.mhand.live
