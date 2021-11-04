@@ -44,6 +44,21 @@
 <br />
 <br />
 
+<br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+<!-- <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=abhishekchauhan15&label=Views&color=blue&style=plastic" alt="chait04" />
+ </p> -->
+
+<p align="center">
+<a href="https://github.com/mmaous">
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmaous&show_icons=true&theme=algolia"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mmaous&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [website]: https://profile.mhand.live
