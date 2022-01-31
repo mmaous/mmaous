@@ -15,16 +15,6 @@
 <br />
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-
-<p align="center">
-<a href="https://github.com/mmaous">
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmaous&show_icons=true&theme=dark"/>
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmaous&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
-
 [website]: https://profile.mhand.live
 [twitter]: https://twitter.com/mhandmaous
 [linkedin]: https://linkedin.com/in/mhandmaous
