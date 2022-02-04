@@ -8,7 +8,7 @@
 - I’m currently learning everything !
 - Aiming to master Full Stack development.
 
-### Connect with me:
+### Get in touch:
 
 [<img style="margin: 0 1rem" alt="mhandmaous | LinkedIn" width="22px" height="22px" src="./linkedin.png" />][linkedin]
 [<img align="" alt="mhandmaous | twitter" width="22px" height="22px" src="./twitter.png" />][twitter]
