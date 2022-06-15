@@ -1,5 +1,5 @@
 ## Hi there, I'm Mhand👋
-### I'm a Junior Software Developer!!
+### I'm a Software Developer!!
 <hr/>
 
 - I’m currently learning everything !
