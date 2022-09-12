@@ -2,8 +2,7 @@
 ### I'm a Software Developer!!
 <hr/>
 
-- I’m currently learning everything !
-- Aiming to master Full Stack development.
+- I’m currently learning Golang & Distributed Systems, System Design, Microservices !
 
 <hr/>
 
