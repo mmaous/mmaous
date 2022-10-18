@@ -13,3 +13,7 @@
 
 [twitter]: https://twitter.com/mhandmaous
 [linkedin]: https://linkedin.com/in/mhandmaous
+
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
