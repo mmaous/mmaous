@@ -16,4 +16,4 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=mmaous.mmaous)
+![](https://visitor-badge.laobi.icu/badge?page_id=mmaous.mmaouse&left_color=black&right_color=black)
