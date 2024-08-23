@@ -1,10 +1,4 @@
 ## Hi there, I'm Mhand👋
-### I'm a Frontend Software Developer!!
-<hr/>
-
-- I’m currently learning Golang & Distributed Systems, System Design, Microservices !
-
-<hr/>
 
 ### Get in touch:
 
