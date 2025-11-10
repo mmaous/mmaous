@@ -1,10 +1,14 @@
-## Hi there, I'm Mhand👋
+## Hi there, I'm Mhand!
 
-### Get in touch:
+I'm a Software Engineer with a focus on DevOps and Platform Engineering. I build, automate, and manage cloud infrastructure.
 
-[<img style="margin: 0 1rem" alt="mhandmaous | LinkedIn" width="22px" height="22px" src="./linkedin.png" />][linkedin]
-[<img align="" alt="mhandmaous | twitter" width="22px" height="22px" src="./twitter.png" />][twitter]
+* Currently working with: Python, AWS, Kubernetes, Docker, Terraform, GitLab CI
 
-[twitter]: https://twitter.com/mmaous_
-[linkedin]: https://linkedin.com/in/mhandmaous
+* Also skilled in: JavaScript/TypeScript, Go, Node.js, Java
+
+* Pursuing M.S. in Cloud Computing (2025-2027)
+
+* Current Goal: CKA / CKAD Certified.
+
+Find me : [twitter](https://twitter.com/mmaous_), [linkedIn](https://linkedin.com/in/maous)
 
