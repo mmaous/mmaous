@@ -6,7 +6,7 @@ I'm a Software Engineer with a focus on DevOps and Platform Engineering. I build
 
 * Also skilled in: JavaScript/TypeScript, Go, Node.js, Java
 
-* Pursuing M.S. in Cloud Computing (2025-2027)
+* Pursuing M.S. in Cloud Computing
 
 * Current Goal: CKA / CKAD Certified.
 
