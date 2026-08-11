@@ -8,7 +8,7 @@ I'm a Software Engineer with a focus on DevOps and Platform Engineering. I build
 
 * Pursuing M.S. in Cloud Computing
 
-* Current Goal: CKA / CKS Certified.
+* Current Goal: CKA(done :D) / CKS Certified.
 
 Find me : [twitter](https://twitter.com/mmaous_), [linkedIn](https://linkedin.com/in/maous)
 
