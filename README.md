@@ -10,5 +10,5 @@ I'm a Software Engineer with a focus on DevOps and Platform Engineering. I build
 
 * Current Goal: CKA(done :D) / CKS Certified.
 
-Find me : [twitter](https://twitter.com/mmaous_), [linkedIn](https://linkedin.com/in/maous)
+Find me : [twitter](https://twitter.com/mhannnnd), [linkedIn](https://linkedin.com/in/maous)
 
